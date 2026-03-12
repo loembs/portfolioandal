@@ -9,7 +9,7 @@ const Navbar = () => {
       className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-8 py-6 bg-background/80 backdrop-blur-md border-b border-border/50"
     >
       <a href="#" className="font-display text-xl font-bold tracking-tight text-foreground">
-       <img src="https://res.cloudinary.com/dlna2kuo1/image/upload/v1773336264/andalwhite-removebg-preview_lex5h0.png" alt="ANDAL créative" className="w-10 h-10" />
+       <img src="https://res.cloudinary.com/dlna2kuo1/image/upload/v1773336264/andalwhite-removebg-preview_lex5h0.png" alt="ANDAL créative" className="w-16 h-16" />
       </a>
       <div className="hidden md:flex items-center gap-8 font-body text-sm text-muted-foreground">
         <a href="#projets" className="hover:text-foreground transition-colors">Projets</a>
