@@ -20,7 +20,7 @@ const FooterSection = () => {
             href="mailto:hello@andal-creative.com"
             className="inline-flex px-8 py-4 rounded-full bg-primary text-primary-foreground font-display font-semibold text-sm tracking-wide hover:bg-foreground/90 transition-colors"
           >
-            hello@andal-creative.com
+            contacts@andalcreative.com
           </a>
         </motion.div>
       </div>
